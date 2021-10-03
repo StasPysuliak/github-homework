@@ -7,3 +7,5 @@ String parameter write in consol the text wich was in
 String and method print with two parameters takes 
 String and int arguments and write in consol the text wich was in 
 String so much times that it was entered by int argument.
+
+              by Stanislav Pysuliak
